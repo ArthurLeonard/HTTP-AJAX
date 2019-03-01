@@ -1,0 +1,16 @@
+html {
+    background-color: lightgrey;
+    display:flex;
+    justify-content: center;
+    /* width: 100rem; */
+}
+
+.friend-card {
+    height: 10%;
+    width: 30rem;
+    border: solid rgb(179, 175, 175);
+    background-color: #c04d4dc4;
+    margin: 6rem;
+    align-items: center;
+    
+}
